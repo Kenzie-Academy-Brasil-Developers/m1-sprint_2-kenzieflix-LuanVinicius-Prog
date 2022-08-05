@@ -1,0 +1,106 @@
+
+
+body{
+    background-color: #121214;
+    color: white;
+
+/*width: 1920px;
+    height: 1080px;*/
+}
+
+header{
+    display: flex;
+   /* width: 1920px; */
+    justify-content: center;
+    align-items: center;
+
+}
+
+.imagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    margin: 0 auto;
+
+}
+
+.logo{
+
+    background-color:;
+    display: flex;
+    margin: 0 auto;
+    width: 300px;
+    margin-top: 100px;
+
+}
+
+h1{
+    background-color: ;
+    display: flex;
+    margin-top: 100px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 40px
+}
+
+.container{
+    background-color:;
+    display: flex;
+    justify-content: center;
+   /* width: 1920px;*/
+    margin-top: 70px;
+}
+
+.box{
+    background-color:;
+    max-width: 160px;
+    height: 205px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 ;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box:hover {
+    background-color:;
+    border-color: white;
+
+
+}
+
+.image{
+    border-radius: 10px;
+    border: solid transparent 2px;
+
+
+}
+
+.image:hover{
+    border: solid 2px white;
+}
+
+div.boton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+button{
+    width: 250px;
+    height: 50px;
+    background-color: #121214;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.boton:hover{
+    border : solid 1px white;
+    width: 250px;
+    border-bottom: white 2px;
+    border-radius: 10px;
+}
